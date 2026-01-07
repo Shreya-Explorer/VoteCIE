@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv)==2:
-    age=sys.argv[1]
+    age=int(sys.argv[1])
     if age > 18:
         print("Eligible to vote")
     else:
