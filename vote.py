@@ -12,3 +12,5 @@ else:
     result="Ineligible to vote"
 
 print(result)
+
+
