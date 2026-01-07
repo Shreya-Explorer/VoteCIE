@@ -5,7 +5,7 @@ if len(sys.argv)==2:
 else:
     age=20
 
-if age>18:
+if age >= 18:
     result="Eligible to vote"
 
 else:
